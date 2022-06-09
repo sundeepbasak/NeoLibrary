@@ -1,0 +1,7 @@
+# here we include all files that we dont want in our git repository
+
+# environment variables
+.env
+
+# node modules
+node_modules
